@@ -1,10 +1,12 @@
 # git-tutorial
 tutorial test 2
 ## v1.1
-<<<<<<< HEAD
+Downloading Finished.
+
+
 CAUTION: Please wait downloading in progress........
 =======
-<<<<<<< HEAD
+
 
 
 This is Ali Bilal 
